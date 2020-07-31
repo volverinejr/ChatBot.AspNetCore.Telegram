@@ -1,0 +1,16 @@
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\lab001.exe
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\lab001.deps.json
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\lab001.runtimeconfig.json
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\lab001.runtimeconfig.dev.json
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\lab001.dll
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\lab001.pdb
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dotnet\Telegram\lab001\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.csprojAssemblyReference.cache
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.AssemblyInfoInputs.cache
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.AssemblyInfo.cs
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.csproj.CoreCompileInputs.cache
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.csproj.CopyComplete
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.dll
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.pdb
+C:\dotnet\Telegram\lab001\obj\Debug\netcoreapp3.1\lab001.genruntimeconfig.cache

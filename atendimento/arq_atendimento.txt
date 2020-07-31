@@ -1,0 +1,5 @@
+1 - Cartão de Crédito Carrefour :credit_card:
+2 - Seguro 
+3 - Serviços :toolbox:
+4 - Promoção
+9 - Finalizar :chequered_flag:

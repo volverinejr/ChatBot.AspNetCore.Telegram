@@ -1,0 +1,6 @@
+10 - MasterCard GOLD
+11 - Visa Nacional
+12 - Visa Internacional
+13 - Visa La Carte
+14 - MasterCard La Carte
+9 - Finalizar :chequered_flag:
