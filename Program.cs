@@ -19,7 +19,7 @@ namespace lab001
 
         static String[] OpcoesDoMenu;
 
-        static String CaminhoBase = @"C:\dotnet\Telegram\lab001\atendimento\";
+        static String CaminhoBase;
 
         static String MenuPrincipal = "";
         public const String Token = "987511593:AAGjCbh9rS5bgIUrHXNclOC3hLKsswky3F4";
@@ -28,6 +28,8 @@ namespace lab001
 
         static void Main(string[] args)
         {
+            CaminhoBase = System.Environment.CurrentDirectory.ToString() + "\\atendimento\\";
+
             MsgSaudacao = System.IO.File.ReadAllText(CaminhoBase + "arq_saudacao.txt");
             MsgFinalizacao = System.IO.File.ReadAllText(CaminhoBase + "arq_finalizacao.txt");
 
