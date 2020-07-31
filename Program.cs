@@ -181,7 +181,7 @@ namespace lab001
             msg = msg.Replace(":wrapped_gift:", char.ConvertFromUtf32(0X1F381));
 
             msg = msg.Replace(":chequered_flag:", char.ConvertFromUtf32(0X1F3C1));
-            
+
 
             return msg;
         }
